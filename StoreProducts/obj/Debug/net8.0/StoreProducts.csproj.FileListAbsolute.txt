@@ -1,0 +1,14 @@
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\bin\Debug\net8.0\StoreProducts.exe
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\bin\Debug\net8.0\StoreProducts.deps.json
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\bin\Debug\net8.0\StoreProducts.runtimeconfig.json
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\bin\Debug\net8.0\StoreProducts.dll
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\bin\Debug\net8.0\StoreProducts.pdb
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\StoreProducts.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\StoreProducts.AssemblyInfoInputs.cache
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\StoreProducts.AssemblyInfo.cs
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\StoreProducts.csproj.CoreCompileInputs.cache
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\StoreProducts.dll
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\refint\StoreProducts.dll
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\StoreProducts.pdb
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\StoreProducts.genruntimeconfig.cache
+G:\PROGRAMACAO\WS - RIDER\StoreProducts\StoreProducts\obj\Debug\net8.0\ref\StoreProducts.dll
